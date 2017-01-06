@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-Learn.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-Learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-Learn_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-Learn_main.iml" group="Java-Learn" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-Learn_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-Learn_test.iml" group="Java-Learn" />
     </modules>
   </component>
 </project>

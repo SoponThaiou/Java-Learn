@@ -8,6 +8,6 @@ public class enummClass {
 
     public static void main(String[] args) {
         System.out.println("This class for Enumerator");
-        System.out.println("Gender Man = " + Gender.Girl.ordinal());
+        System.out.println("Gender Man = " + Gender.Man.ordinal());
     }
 }

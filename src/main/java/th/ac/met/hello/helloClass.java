@@ -14,5 +14,6 @@ public class helloClass {
             sum += nums[i];
         }
         System.out.println("Summary in array nums = " + sum);
+        System.out.println("Prompt");
     }
 }
